@@ -8,5 +8,5 @@
 ## Result
 
 
-![alt text](screenshots/landing.png)  ![alt text](screenshots/store.png) ![alt text](screenshots/detail.png) ![alt text](screenshots/card.png) ![alt text](screenshots/success.png)
+![alt text](screenshots/landing.PNG)  ![alt text](screenshots/store.PNG) ![alt text](screenshots/detail.PNG) ![alt text](screenshots/card.PNG) ![alt text](screenshots/success.PNG)
 
